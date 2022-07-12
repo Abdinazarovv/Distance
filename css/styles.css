@@ -63,7 +63,7 @@ body {
 
 .hero__list {
     list-style-type: none;
-    background-color: darkslateblue;
+    background-color: #fff;
     padding: 50px;
     border-radius: 10px;
     flex-wrap: wrap;
