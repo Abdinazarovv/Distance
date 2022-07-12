@@ -30,7 +30,7 @@ elForm.addEventListener('submit', function(evt){
     elInput.value =null;
     
     if(inputValue <= 0 || isNaN(inputValue)){
-        alert("Xatolik yuzberdi !!!")
+        alert("Xato!")
     }
     
     elFootResult.textContent = calculateTime(inputValue, ON_FOOT_SPEED)
